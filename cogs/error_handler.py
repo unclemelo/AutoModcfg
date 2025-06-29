@@ -116,7 +116,7 @@ class ERROR(commands.Cog):
         """
         payload = {
             "content": message,
-            "username": "Melli Console",
+            "username": "Console",
             "avatar_url": "https://cdn.discordapp.com/attachments/1308048388637462558/1335601521550692392/1200px-GNOME_Terminal_icon_2019.png"
         }
         try:
