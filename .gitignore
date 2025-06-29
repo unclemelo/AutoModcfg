@@ -1,0 +1,6 @@
+data/applied_presets.json
+.env
+venv
+bot_errors.log
+cogs/__pycache__
+util/__pycache__
